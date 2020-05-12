@@ -1,3 +1,3 @@
 # hello-world
-# Sample repository
-# Im Shabeer, studying at SLIIT
+Sample repository
+Im Shabeer, studying at SLIIT
